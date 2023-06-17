@@ -18,6 +18,6 @@
     const std::string url = "https://api.openai.com/v1/chat/completions";//官方站需要翻墙，也可以输入国内镜像
 ```
 
-生成改为Release ==x64== ，编译器为VS2019，==更换编译器需要部署新的 **libcurl**==
+生成改为Release **x64** ，编译器为VS2019，更换编译器需要部署新的 **libcurl**
 
 Flandre的人格咒语在`Chat.h`中，可以更换为你喜欢的人格
