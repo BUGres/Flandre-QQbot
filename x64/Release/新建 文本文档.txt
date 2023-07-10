@@ -1,0 +1,6 @@
+{"code":200,"info":"success","data":{"id":"d7d4b1bff656714d","cost":350,"model_id":3,"model_type":"preset","prompt":"榫
+欏コ","fill_prompt":0,"width":512,"height":512,"ref_img":null,"addition":{"img_fmt":"jpg","cfg_scale":7,"negative_prompt":"minim aliqua qui in sed","no_image_in_callback":1},"user_id":"6491bc37c63e4e6c7545724d","task_id":520036,"estimate":13,"seed":2147483647,"gen_img":"https:\/\/file.niucodata.com\/open\/22d8383c75a14288a02c1631891421ca.jpg?sign=3190970b8709a1f39697a9f58cf53535&t=64948c31","fail_reason":null,"state":"success","create_at":"2023-06-21 17:59:49","create_at_ts":1687341589}}
+
+{"code":200,"info":"success","data":{"ids":["e387ec523b5bad4c"],"id":"e387ec523b5bad4c","estimates":[15],"estimate":15}}请按任意键继续. . .
+
+9a0b98ac070a18b3

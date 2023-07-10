@@ -1,0 +1,17 @@
+﻿  Flandre-QQbot.cpp
+C:\Users\27756\source\repos\Flandre-QQbot\StrClip.h(10,76): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\27756\source\repos\Flandre-QQbot\StrClip.h(37,77): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\27756\source\repos\Flandre-QQbot\6Pen.h(36,48): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\27756\source\repos\Flandre-QQbot\6Pen.h(37,49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\27756\source\repos\Flandre-QQbot\6Pen.h(75,47): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\27756\source\repos\Flandre-QQbot\6Pen.h(76,51): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\27756\source\repos\Flandre-QQbot\Chat.h(87,56): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\27756\source\repos\Flandre-QQbot\Chat.h(88,48): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\27756\source\repos\Flandre-QQbot\Flandre-QQbot.cpp(99,13): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\27756\source\repos\Flandre-QQbot\Flandre-QQbot.cpp(106,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码
+  1 of 224 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Flandre-QQbot.vcxproj -> C:\Users\27756\source\repos\Flandre-QQbot\x64\Release\Flandre-QQbot.exe

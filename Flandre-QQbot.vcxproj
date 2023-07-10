@@ -146,8 +146,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Chat.h" />
+    <ClInclude Include="Chat_Picture.h" />
     <ClInclude Include="ClipBoard.h" />
     <ClInclude Include="StrClip.h" />
+    <ClInclude Include="6Pen.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

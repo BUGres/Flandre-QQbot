@@ -29,5 +29,11 @@
     <ClInclude Include="ClipBoard.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Chat_Picture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="6Pen.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
